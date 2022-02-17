@@ -17,8 +17,6 @@
 @media(max-width: 768px) {
   .foto-grid {
     padding: 0 24px;
-  }
-  .foto-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
   }
