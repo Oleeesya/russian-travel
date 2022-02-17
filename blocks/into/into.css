@@ -1,0 +1,26 @@
+.into {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 92px 0 92px 148px;
+}
+
+@media(max-width: 1024px) {
+  .into {
+    margin: 92px auto;
+    padding: 0 48px;
+  }
+}
+
+@media(max-width: 768px) {
+  .into {
+    margin: 88px auto;
+    padding: 0 24px;
+  }
+}
+
+@media(max-width: 594px) {
+  .into {
+    margin: 64px auto;
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,11 @@
+.header__lang {
+  display: flex;
+  width: 77px;
+  justify-content: space-between;
+}
+
+@media(max-width: 720px) {
+  .header__lang {
+    width: 62px;
+  }
+}

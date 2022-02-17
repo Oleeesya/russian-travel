@@ -1,0 +1,15 @@
+.into__title {
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 1.07;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+@media(max-width: 594px) {
+  .into__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

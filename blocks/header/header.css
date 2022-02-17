@@ -1,0 +1,26 @@
+.header {
+  margin: 28px auto 0;
+  padding: 0 48px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media(max-width: 768px) {
+  .header {
+    padding: 0 24px;
+  }
+}
+
+@media(max-width: 720px) {
+  .header {
+    padding: 0 16px;
+  }
+}
+
+@media(max-width: 594px) {
+  .header {
+    margin-top: 16px;
+  }
+}
