@@ -11,9 +11,11 @@
 ## Используемые технологии:
 1. HTML5
 2. CSS3
+
 Реализована отзывчивая верстка сайта.
 
-## Ссылку на GitHub Pages:
+## Ссылка на GitHub Pages:
 
+https://oleeesya.github.io/russian-travel/
 
 
