@@ -6,7 +6,7 @@
 
 @media(max-width: 594px) {
   .header__logo {
-    background-image: url(../../../sprint-3-images/__logo-320.svg);
+    background-image: url(../../../sprint-3-images/__logo320.svg);
     width: 142px;
     height: 42px;
   }
