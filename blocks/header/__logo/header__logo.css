@@ -2,11 +2,11 @@
   background-image: url(../../../sprint-3-images/__logo.svg);
   width: 176px;
   height: 52px;
+  background-size: cover;
 }
 
 @media(max-width: 594px) {
   .header__logo {
-    background-image: url(../../../sprint-3-images/__logo320.svg);
     width: 142px;
     height: 42px;
   }
