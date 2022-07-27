@@ -22,12 +22,9 @@
  * БЭМ  
  * Псевдоклассы CSS  
  
- 
+# ["Макет в Figma"]([https://practicum.yandex.ru](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0))
 
-
-Реализована отзывчивая верстка сайта.
-
-## Ссылка на GitHub Pages:
+# Ссылка на GitHub Pages:
 
 https://oleeesya.github.io/russian-travel/
 
