@@ -3,7 +3,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-## Описание проекта:
+## Описание проекта:  
 Проект о путешествии по России. 
 Одностраничный сайт рассказывает о различных направлениях России, куда стоит отправиться, содержит ссылки на полезные ресурсы с дополнительной информацией о Карелии, озере Байкал, Алтае, Кольском полуострове и не только.
 
@@ -11,7 +11,7 @@
 
 ["Яндекс Практикум"](https://practicum.yandex.ru/)  
 
-# Используемые технологии:
+# Используемые технологии:   
 
  HTML5  
  * Семантические теги
@@ -25,9 +25,14 @@
  * БЭМ  
  * Псевдоклассы CSS  
  
-### ["Макет в Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+### ["Макет в Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)  
 
-# Ссылка на GitHub Pages:
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Ссылка на GitHub Pages:  
 
 https://oleeesya.github.io/russian-travel/
 
